@@ -1,0 +1,2912 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chanmax.cool" resolutions="1x" timestamp="1528650066521">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+      <file name="1450.css" crc="4061972861" ref="tablet>1450"/>
+      <file name="1460.css" crc="132898939" ref="tablet>1460"/>
+      <file name="1450-bis.css" crc="19054366" ref="tablet>1450-bis"/>
+      <file name="1540.css" crc="4061972861" ref="tablet>1540"/>
+      <file name="1460-bis.css" crc="132898939" ref="tablet>1460-bis"/>
+      <file name="xvii.css" crc="132898939" ref="tablet>xvii"/>
+      <file name="nomq_xvii.css" crc="3824530138" ref="tablet>xvii"/>
+      <file name="1510.css" crc="4061972861" ref="tablet>1510"/>
+      <file name="780.css" crc="4061972861" ref="tablet>780"/>
+    </folder>
+    <file name="index.html" crc="3830023002" seo="true" mt="1527197498443" redirect="false"/>
+    <file name="780.html" crc="4273359501" seo="true" mt="1527197498639" redirect="false"/>
+    <file name="1450.html" crc="207325204" seo="true" mt="1527197498657" redirect="false"/>
+    <file name="1450-bis.html" crc="496947445" seo="true" mt="1527197498670" redirect="false"/>
+    <file name="1460.html" crc="21202515" seo="true" mt="1527197498680" redirect="false"/>
+    <file name="1460-bis.html" crc="414099352" seo="true" mt="1527197498690" redirect="false"/>
+    <file name="1510.html" crc="318420103" seo="true" mt="1527197498700" redirect="false"/>
+    <file name="1540.html" crc="3832308427" seo="true" mt="1527197498709" redirect="false"/>
+    <file name="xvii.html" crc="4150562884" seo="true" mt="1527197498719" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4259419372" ref="index"/>
+    <file name="1540.css" crc="4268887475" ref="1540"/>
+    <file name="1460.css" crc="4175299169" ref="1460"/>
+    <file name="780.css" crc="246935636" ref="780"/>
+    <file name="1450.css" crc="135032998" ref="1450"/>
+    <file name="xvii.css" crc="102647187" ref="xvii"/>
+    <file name="nomq_xvii.css" crc="180995256" ref="xvii"/>
+    <file name="nomq_1450.css" crc="4061481507" ref="1450"/>
+    <file name="1460-bis.css" crc="4154802917" ref="1460-bis"/>
+    <file name="nomq_1460-bis.css" crc="4141459107" ref="1460-bis"/>
+    <file name="1510.css" crc="4175798507" ref="1510"/>
+    <file name="nomq_1510.css" crc="395567088" ref="1510"/>
+    <file name="nomq_1460.css" crc="146244565" ref="1460"/>
+    <file name="nomq_780.css" crc="313827109" ref="780"/>
+    <file name="1450-bis.css" crc="3974411613" ref="1450-bis"/>
+    <file name="nomq_1450-bis.css" crc="474872080" ref="1450-bis"/>
+    <file name="nomq_1540.css" crc="4125751342" ref="1540"/>
+    <file name="xv.css" crc="3882853205" ref="xv"/>
+    <file name="nomq_xv.css" crc="4092758789" ref="xv"/>
+    <file name="1462.css" crc="34383592" ref="1462"/>
+    <file name="nomq_1462.css" crc="3938415479" ref="1462"/>
+    <file name="1480.css" crc="458863275" ref="1480"/>
+    <file name="nomq_1480.css" crc="168302861" ref="1480"/>
+    <file name="1734.css" crc="3827124835" ref="1734"/>
+    <file name="nomq_1734.css" crc="3973256165" ref="1734"/>
+    <file name="xvii-bis.css" crc="3949391047" ref="xvii-bis"/>
+    <file name="nomq_xvii-bis.css" crc="205773576" ref="xvii-bis"/>
+    <file name="copie--de-copie--de-xvii-quad.css" crc="3894561033" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="nomq_copie--de-copie--de-xvii-quad.css" crc="243326347" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="xviii-bis.css" crc="161125552" ref="xviii-bis"/>
+    <file name="nomq_xviii-bis.css" crc="3782479675" ref="xviii-bis"/>
+    <file name="1689.css" crc="3887886281" ref="1689"/>
+    <file name="nomq_1689.css" crc="4103250100" ref="1689"/>
+    <file name="1766.css" crc="254496148" ref="1766"/>
+    <file name="nomq_1766.css" crc="464391972" ref="1766"/>
+    <file name="copie--de-xvii-ter.css" crc="3911119113" ref="copie--de-xvii-ter"/>
+    <file name="nomq_copie--de-xvii-ter.css" crc="3984614882" ref="copie--de-xvii-ter"/>
+    <file name="xviii.css" crc="69792600" ref="xviii"/>
+    <file name="nomq_xviii.css" crc="223567752" ref="xviii"/>
+    <file name="xix-4.css" crc="452379521" ref="xix-4"/>
+    <file name="nomq_xix-4.css" crc="354761036" ref="xix-4"/>
+    <file name="1902.css" crc="494654281" ref="1902"/>
+    <file name="nomq_1902.css" crc="3927000505" ref="1902"/>
+    <file name="1850.css" crc="4287888791" ref="1850"/>
+    <file name="nomq_1850.css" crc="3984844222" ref="1850"/>
+    <file name="xviii-4.css" crc="339533876" ref="xviii-4"/>
+    <file name="nomq_xviii-4.css" crc="3762682734" ref="xviii-4"/>
+    <file name="xix.css" crc="4227478644" ref="xix"/>
+    <file name="nomq_xix.css" crc="3922180126" ref="xix"/>
+    <file name="1935.css" crc="403559096" ref="1935"/>
+    <file name="nomq_1935.css" crc="393410881" ref="1935"/>
+    <file name="xx-2.css" crc="3958147527" ref="xx-2"/>
+    <file name="nomq_xx-2.css" crc="462115688" ref="xx-2"/>
+    <file name="xviii-3.css" crc="4051870971" ref="xviii-3"/>
+    <file name="nomq_xviii-3.css" crc="3781354603" ref="xviii-3"/>
+    <file name="xx.css" crc="72516763" ref="xx"/>
+    <file name="nomq_xx.css" crc="4036674478" ref="xx"/>
+    <file name="xix-3.css" crc="429686765" ref="xix-3"/>
+    <file name="nomq_xix-3.css" crc="4106847386" ref="xix-3"/>
+    <file name="xix-2.css" crc="4229595891" ref="xix-2"/>
+    <file name="nomq_xix-2.css" crc="3831832244" ref="xix-2"/>
+    <file name="1850-bis.css" crc="405200513" ref="1850-bis"/>
+    <file name="nomq_1850-bis.css" crc="3803043387" ref="1850-bis"/>
+    <file name="xx-3.css" crc="3980752151" ref="xx-3"/>
+    <file name="nomq_xx-3.css" crc="4208389632" ref="xx-3"/>
+    <file name="xx4.css" crc="4280393018" ref="xx4"/>
+    <file name="nomq_xx4.css" crc="3963527175" ref="xx4"/>
+    <file name="xx-5.css" crc="408433774" ref="xx-5"/>
+    <file name="nomq_xx-5.css" crc="30834105" ref="xx-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="780:1450:1460:1540:index:tablet>index:tablet>780:tablet>1450:tablet>1450-bis:tablet>1460:tablet>1460-bis:tablet>1510:tablet>1540:tablet>xvii:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="museutils.js" crc="3803043152" ref="780:1450:1460:1540:index:tablet>index:tablet>780:tablet>1450:tablet>1450-bis:tablet>1460:tablet>1460-bis:tablet>1510:tablet>1540:tablet>xvii:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="whatinput.js" crc="86476730" ref="780:1450:1460:1540:index:tablet>index:tablet>780:tablet>1450:tablet>1450-bis:tablet>1460:tablet>1460-bis:tablet>1510:tablet>1540:tablet>xvii:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="museconfig.js" crc="4153641093" ref="780:1450:1460:1540:index:tablet>index:tablet>780:tablet>1450:tablet>1450-bis:tablet>1460:tablet>1460-bis:tablet>1510:tablet>1540:tablet>xvii:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="jquery.watch.js" crc="99325471" ref="780:1450:1460:1540:index:tablet>index:tablet>780:tablet>1450:tablet>1450-bis:tablet>1460:tablet>1460-bis:tablet>1510:tablet>1540:tablet>xvii:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="require.js" crc="4157109226" ref="780:1450:1460:1540:index:tablet>index:tablet>780:tablet>1450:tablet>1450-bis:tablet>1460:tablet>1460-bis:tablet>1510:tablet>1540:tablet>xvii:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="780:1450:1460:1540:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+  </folder>
+  <folder name="images">
+    <file name="780_plan de travail 1.png" crc="3875575490" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="fr2.png" crc="3898795279" seo="true" ref="780:1540:1689">
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="u237-4.png" crc="457270752" ref="780"/>
+    <file name="minuscule.png" crc="3866899795" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="plate11cx.png" crc="4255647256" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="sans titre - 1.png" crc="292944059" seo="true" ref="780:1450:1460:1540:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5">
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="17508_25b63ebb05f416b75b26e6da8185ed0b.png" crc="4206541995" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="u1034-4.png" crc="356375569" ref="1450"/>
+    <file name="allemagne.png" crc="3823216634" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="gutenbergtextura_specimen.png" crc="4241175299" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="gutenberg copie.jpg" crc="207299946" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="u813-4.png" crc="525795933" ref="1450"/>
+    <file name="fr.png" crc="3781413893" seo="true" ref="1460">
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="0000000917l.png" crc="4083399756" seo="true" ref="1460">
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+    </file>
+    <file name="0000000109l.png" crc="331806364" seo="true" ref="1460">
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+    </file>
+    <file name="u1231-6.png" crc="32501498" ref="1460"/>
+    <file name="u1124-10.png" crc="4173716351" ref="1460"/>
+    <file name="capture d’écran 2018-03-11 à 225710 copie.png" crc="4066223004" seo="true" ref="1460">
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+    </file>
+    <file name="30589-004-ec84ac85.png" crc="471933381" seo="true" ref="1460">
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+    </file>
+    <file name="u1110-4.png" crc="405171953" ref="1460"/>
+    <file name="u1212-6.png" crc="3759532908" ref="1460"/>
+    <file name="1540_plan de travail 1.png" crc="386290641" seo="true" ref="1540">
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="bd5bf35de49bfbad3bd75885b5f7e228.png" crc="3861624436" seo="true" ref="1540">
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+    </file>
+    <file name="37034_2.png" crc="350423695" seo="true" ref="1540">
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+    </file>
+    <file name="sans titre - 1-04.png" crc="4252952264" seo="true" ref="index:780:1450:1460:1540:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5">
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="u1735-4.png" crc="414876584" ref="index"/>
+    <file name="2(1).png" crc="4286847076" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="minuscule221x115.png" crc="3866899795" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="plate11cx-crop-u240.png" crc="232259666" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="u237-42.png" crc="4199168767" ref="780"/>
+    <file name="blank.gif" crc="4208392903" ref="780:1450:1460:1540:1510:1450-bis:xvii:1460-bis:xv:1462:1480:xvii-bis:1689:copie--de-xvii-ter:1734:1766:xviii:xviii-bis:copie--de-copie--de-xvii-quad:index:xviii-3:xviii-4:xix:1935:1850:1850-bis:xix-2:xix-3:xix-4:1902:xx:xx-2:xx-3:xx4:xx-5"/>
+    <file name="1450_plan de travail 1-crop-u1856.png" crc="4210447886" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="1450_plan de travail 1-crop-u18562.png" crc="349144487" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="allemagne164x189.png" crc="263871934" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="u1034-42.png" crc="42875838" ref="1450"/>
+    <file name="u813-42.png" crc="317986093" ref="1450"/>
+    <file name="sans titre - 1_plan de travail 1 copie.png" crc="3847475981" seo="true" ref="1460:1460-bis:xv:1480:xvii-bis:copie--de-xvii-ter:xviii:copie--de-copie--de-xvii-quad:xviii-3:xix:1850:1850-bis:xix-2:xx-2:xx-3:xx4">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u1231-62.png" crc="3952485750" ref="1460"/>
+    <file name="u1124-102.png" crc="3808442031" ref="1460"/>
+    <file name="u1110-42.png" crc="349555775" ref="1460"/>
+    <file name="u1212-62.png" crc="237232466" ref="1460"/>
+    <file name="u2075-4.png" crc="4007162457" ref="1540"/>
+    <file name="u2075-42.png" crc="4207174365" ref="1540"/>
+    <file name="dates_plan de travail 1 copie 2.png" crc="40811124" seo="true" ref="1510">
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+    </file>
+    <file name="italie.png" crc="86250630" seo="true" ref="1510:1462:xviii-4">
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="italie164x189.png" crc="113178271" seo="true" ref="1510">
+      <caption webpage="1510" alt=""/>
+    </file>
+    <file name="dates_plan de travail 1 copie.png" crc="3959416441" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="allemagneee.png" crc="94630711" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="u2353-4.png" crc="3896031406" ref="1450-bis"/>
+    <file name="u2408-4.png" crc="525795933" ref="1450-bis"/>
+    <file name="allemagneee163x188.png" crc="182171477" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="u2353-42.png" crc="4190335548" ref="1450-bis"/>
+    <file name="gutenberg167x212.jpg" crc="3954177424" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="u2408-42.png" crc="4003033927" ref="1450-bis"/>
+    <file name="dates_plan de travail 1 copie 6.png" crc="473261696" seo="true" ref="xvii">
+      <caption webpage="1766" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="allem.png" crc="4261314309" seo="true" ref="1460-bis:1850">
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="800px-liber_chronicarum_f_223r.jpg" crc="134471523" seo="true" ref="1460-bis">
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="u2692-4.png" crc="4139859415" ref="1460-bis"/>
+    <file name="allem164x189.png" crc="19739073" seo="true" ref="1460-bis:1850">
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="800px-liber_chronicarum_f_223r153x230.jpg" crc="3993029484" seo="true" ref="1460-bis">
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="u2692-42.png" crc="506785012" ref="1460-bis"/>
+    <file name="u213-4.png" crc="352118946" ref="780"/>
+    <file name="u213-42.png" crc="4175132577" ref="780"/>
+    <file name="minuscule343x178.png" crc="3866899795" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="u213-43.png" crc="88074818" ref="780"/>
+    <file name="u237-43.png" crc="4072750757" ref="780"/>
+    <file name="allemagne255x294.png" crc="4276997363" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="1450_plan de travail 1-crop-u18563.png" crc="4076782943" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="u1034-43.png" crc="397833910" ref="1450"/>
+    <file name="u813-43.png" crc="271948748" ref="1450"/>
+    <file name="u1231-63.png" crc="332952900" ref="1460"/>
+    <file name="u1124-103.png" crc="3761889562" ref="1460"/>
+    <file name="u1110-43.png" crc="3986893411" ref="1460"/>
+    <file name="u1212-63.png" crc="487042071" ref="1460"/>
+    <file name="u2075-43.png" crc="3776413593" ref="1540"/>
+    <file name="italie255x294.png" crc="3846788979" seo="true" ref="1510:xviii-4">
+      <caption webpage="1510" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="allemagneee255x294.png" crc="288397548" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="gutenberg203x259.jpg" crc="359053390" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="u2353-43.png" crc="69182933" ref="1450-bis"/>
+    <file name="u2408-43.png" crc="233640909" ref="1450-bis"/>
+    <file name="allem255x294.png" crc="134491139" seo="true" ref="1460-bis">
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="u2692-43.png" crc="4154795873" ref="1460-bis"/>
+    <file name="allemagne225x260.png" crc="322230597" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="17508_25b63ebb05f416b75b26e6da8185ed0b186x241.png" crc="51115928" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="1450_plan de travail 1-crop-u18564.png" crc="3800772823" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="u1034-44.png" crc="268567329" ref="1450"/>
+    <file name="u813-44.png" crc="525795933" ref="1450"/>
+    <file name="u1231-64.png" crc="4219251736" ref="1460"/>
+    <file name="u1124-104.png" crc="500639272" ref="1460"/>
+    <file name="u1110-44.png" crc="4243800018" ref="1460"/>
+    <file name="u1212-64.png" crc="11589356" ref="1460"/>
+    <file name="u2075-44.png" crc="336332233" ref="1540"/>
+    <file name="italie243x280.png" crc="4120112329" seo="true" ref="1510">
+      <caption webpage="1510" alt=""/>
+    </file>
+    <file name="allemagneee243x280.png" crc="4271437445" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="gutenberg193x245.jpg" crc="4225294312" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="u2353-44.png" crc="3896031406" ref="1450-bis"/>
+    <file name="u2408-44.png" crc="3985932834" ref="1450-bis"/>
+    <file name="allem232x267.png" crc="4040160210" seo="true" ref="1460-bis:1850">
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="u2692-44.png" crc="102679250" ref="1460-bis"/>
+    <file name="italie bleu.png" crc="4030891784" seo="true" ref="xv:1480:copie--de-copie--de-xvii-quad">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="trajan_detail_lg.png" crc="499184155" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="u4879-4.png" crc="4144871628" ref="xv"/>
+    <file name="italie bleu255x294.png" crc="298635144" seo="true" ref="xv">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="trajan_detail_lg453x199.png" crc="499184155" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="u4879-42.png" crc="4137957848" ref="xv"/>
+    <file name="italie bleu232x267.png" crc="3831863322" seo="true" ref="xv">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="trajan_detail_lg412x181.png" crc="4139012632" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="u4879-43.png" crc="505601824" ref="xv"/>
+    <file name="italie bleu164x189.png" crc="3988772320" seo="true" ref="xv">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="trajan_detail_lg291x128.png" crc="3879051776" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="u4879-44.png" crc="4114274399" ref="xv"/>
+    <file name="1462_plan de travail 1.png" crc="4213036695" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="u5284-4.png" crc="4150005318" ref="1462"/>
+    <file name="type_lecture_img_31.png" crc="130470155" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="u5272-4.png" crc="3939958733" ref="1462"/>
+    <file name="adone.png" crc="3998444409" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="u5296-4.png" crc="409183100" ref="1462"/>
+    <file name="2ceb7b97f1c29a58f15fdf6e028140f7.png" crc="521197273" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="typographie.png" crc="429754828" seo="true" ref="1462:1450:1540:1510:1689:1734:xviii-bis:xviii-4:1935:xix-3:xix-4:1902:xx-5">
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1540" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1450" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1510" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1462" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="u5272-42.png" crc="3819192872" ref="1462"/>
+    <file name="u5284-42.png" crc="57200375" ref="1462"/>
+    <file name="u5296-42.png" crc="37351878" ref="1462"/>
+    <file name="2ceb7b97f1c29a58f15fdf6e028140f7383x288.png" crc="521197273" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="u5272-43.png" crc="3833696924" ref="1462"/>
+    <file name="u5284-43.png" crc="218656804" ref="1462"/>
+    <file name="u5296-43.png" crc="4276500290" ref="1462"/>
+    <file name="2ceb7b97f1c29a58f15fdf6e028140f7364x273.png" crc="521197273" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="u5272-44.png" crc="148213523" ref="1462"/>
+    <file name="adone320x160.png" crc="3957882335" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="u5284-44.png" crc="184959044" ref="1462"/>
+    <file name="u5296-44.png" crc="409183100" ref="1462"/>
+    <file name="2ceb7b97f1c29a58f15fdf6e028140f7246x185.png" crc="95538233" seo="true" ref="1462">
+      <caption webpage="1462" alt=""/>
+    </file>
+    <file name="typographie-crop-u1580.png" crc="353031161" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="typographie-crop-u15802.png" crc="259340490" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="typographie-crop-u15803.png" crc="392244959" seo="true" ref="780">
+      <caption webpage="780" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u2355.png" crc="9047046" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u23552.png" crc="3866050855" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u23553.png" crc="3921635221" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u23554.png" crc="459968566" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="fr vert.png" crc="446836059" seo="true" ref="xvii:1766">
+      <caption webpage="1766" alt=""/>
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-grandes-miseres-de-la-guerre.png" crc="3905567177" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-par-vorsterman.png" crc="360091957" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6068-6.png" crc="3820965830" ref="xvii"/>
+    <file name="u6096-4.png" crc="4281194608" ref="xvii"/>
+    <file name="fr vert279x322.png" crc="4221382110" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-grandes-miseres-de-la-guerre458x196.png" crc="3905567177" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-par-vorsterman265x352.png" crc="360091957" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6068-62.png" crc="190331712" ref="xvii"/>
+    <file name="u6096-42.png" crc="443066569" ref="xvii"/>
+    <file name="fr vert255x294.png" crc="4146565613" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-par-vorsterman192x256.png" crc="4278163559" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6096-43.png" crc="4045911026" ref="xvii"/>
+    <file name="callot-grandes-miseres-de-la-guerre418x179.png" crc="4225974325" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6068-63.png" crc="515869288" ref="xvii"/>
+    <file name="fr vert243x280.png" crc="4043752347" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-par-vorsterman183x243.png" crc="143987126" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6096-44.png" crc="4281194608" ref="xvii"/>
+    <file name="callot-grandes-miseres-de-la-guerre398x170.png" crc="4015769618" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6068-64.png" crc="3816728207" ref="xvii"/>
+    <file name="fr vert164x189.png" crc="30439759" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-grandes-miseres-de-la-guerre269x115.png" crc="482169181" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="callot-par-vorsterman124x165.png" crc="3884812122" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="u6068-65.png" crc="109673244" ref="xvii"/>
+    <file name="u6096-45.png" crc="530544228" ref="xvii"/>
+    <file name="1480_plan de travail 1.png" crc="3836015080" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="u5711-4.png" crc="3964288173" ref="1480"/>
+    <file name="u5852-4.png" crc="4037398103" ref="1480"/>
+    <file name="04_0-crop-u5820.png" crc="4070789125" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="888771964.png" crc="3949798264" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="u5711-42.png" crc="434739750" ref="1480"/>
+    <file name="u5852-42.png" crc="442222530" ref="1480"/>
+    <file name="04_0-crop-u58202.png" crc="37100602" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="u5852-43.png" crc="4107258355" ref="1480"/>
+    <file name="888771964200x248.png" crc="4069011280" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="04_0-crop-u58203.png" crc="4287717596" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="u5711-43.png" crc="4072995578" ref="1480"/>
+    <file name="italie bleu186x214.png" crc="4099075301" seo="true" ref="1480:copie--de-copie--de-xvii-quad">
+      <caption webpage="1480" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u5852-44.png" crc="345526862" ref="1480"/>
+    <file name="888771964160x198.png" crc="255189299" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="04_0-crop-u58204.png" crc="3965181244" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="u5711-44.png" crc="4113986107" ref="1480"/>
+    <file name="u5711-45.png" crc="4008916780" ref="1480"/>
+    <file name="u5852-45.png" crc="4103175099" ref="1480"/>
+    <file name="04_0-crop-u58205.png" crc="12275987" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="888771964141x175.png" crc="3839846413" seo="true" ref="1480">
+      <caption webpage="1480" alt=""/>
+    </file>
+    <file name="art2_graph2.jpg" crc="4071219841" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="dates_plan de travail 1 copie 62.png" crc="473261696" seo="true" ref="xvii-bis:copie--de-xvii-ter:copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="europe bleue.png" crc="126262869" seo="true" ref="xvii-bis:copie--de-xvii-ter">
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u6243-6.png" crc="198430379" ref="xvii-bis"/>
+    <file name="e2b607b8893a02ff79c1bab0cb81f677 copie.png" crc="3780915108" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="zuk25qan_large.png" crc="488535665" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6242-6.png" crc="167272585" ref="xvii-bis"/>
+    <file name="u6462-6.png" crc="3838166212" ref="xvii-bis"/>
+    <file name="europe bleue275x318.png" crc="4087890841" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6243-62.png" crc="4110597588" ref="xvii-bis"/>
+    <file name="u6242-62.png" crc="4127656364" ref="xvii-bis"/>
+    <file name="u6462-62.png" crc="410811866" ref="xvii-bis"/>
+    <file name="europe bleue232x267.png" crc="59238997" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="zuk25qan_large222x320.png" crc="3899348707" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6242-63.png" crc="360497913" ref="xvii-bis"/>
+    <file name="art2_graph2257x374.jpg" crc="212844031" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6243-63.png" crc="3941394651" ref="xvii-bis"/>
+    <file name="u6462-63.png" crc="3918493259" ref="xvii-bis"/>
+    <file name="art2_graph2206x300.jpg" crc="453866289" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="europe bleue186x214.png" crc="144901953" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6243-64.png" crc="88566160" ref="xvii-bis"/>
+    <file name="e2b607b8893a02ff79c1bab0cb81f677 copie286x155.png" crc="3764129697" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="zuk25qan_large178x257.png" crc="104437878" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6242-64.png" crc="298040113" ref="xvii-bis"/>
+    <file name="u6462-64.png" crc="3812421539" ref="xvii-bis"/>
+    <file name="art2_graph2182x264.jpg" crc="408102988" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="europe bleue164x189.png" crc="529816750" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6243-65.png" crc="388981883" ref="xvii-bis"/>
+    <file name="e2b607b8893a02ff79c1bab0cb81f677 copie252x137.png" crc="4292938063" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="zuk25qan_large157x226.png" crc="410718557" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6242-65.png" crc="413164016" ref="xvii-bis"/>
+    <file name="u6462-65.png" crc="167349511" ref="xvii-bis"/>
+    <file name="jansontextbold.png" crc="129920472" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="u6692-4.png" crc="88350647" ref="1689"/>
+    <file name="u6863-4.png" crc="100034618" ref="1689"/>
+    <file name="d7misztótfalusi_kis_miklós_(1650-1702)_nyomdász.png" crc="136032035" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="u6863-42.png" crc="3916300391" ref="1689"/>
+    <file name="d7misztótfalusi_kis_miklós_(1650-1702)_nyomdász248x349.png" crc="3943529168" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="u6692-42.png" crc="299667093" ref="1689"/>
+    <file name="u6863-43.png" crc="400844437" ref="1689"/>
+    <file name="d7misztótfalusi_kis_miklós_(1650-1702)_nyomdász227x319.png" crc="3892987464" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="jansontextbold294x196.png" crc="3895849097" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="u6692-43.png" crc="3782146160" ref="1689"/>
+    <file name="d7misztótfalusi_kis_miklós_(1650-1702)_nyomdász160x224.png" crc="4046628560" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="u6863-44.png" crc="366188325" ref="1689"/>
+    <file name="u6692-44.png" crc="391477870" ref="1689"/>
+    <file name="jansontextbold207x138.png" crc="267928688" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="5d6d4c7961699261422dd75e902ee8fb.png" crc="4139457787" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="54814610.png" crc="3973354440" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u7052-6.png" crc="4006445762" ref="copie--de-xvii-ter"/>
+    <file name="u7051-6.png" crc="4273860660" ref="copie--de-xvii-ter"/>
+    <file name="5d6d4c7961699261422dd75e902ee8fb455x547.png" crc="4139457787" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="54814610342x465.png" crc="3973354440" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u7052-62.png" crc="3785092690" ref="copie--de-xvii-ter"/>
+    <file name="u7051-62.png" crc="3985067499" ref="copie--de-xvii-ter"/>
+    <file name="5d6d4c7961699261422dd75e902ee8fb423x508.png" crc="3959394172" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="54814610318x432.png" crc="3973354440" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="europe bleue256x295.png" crc="482254704" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u7052-63.png" crc="318119785" ref="copie--de-xvii-ter"/>
+    <file name="u7051-63.png" crc="83235621" ref="copie--de-xvii-ter"/>
+    <file name="5d6d4c7961699261422dd75e902ee8fb383x460.png" crc="442321451" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="54814610288x391.png" crc="3973354440" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u7052-64.png" crc="3807872814" ref="copie--de-xvii-ter"/>
+    <file name="u7051-64.png" crc="841994" ref="copie--de-xvii-ter"/>
+    <file name="5d6d4c7961699261422dd75e902ee8fb307x369.png" crc="3926028091" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="54814610231x314.png" crc="3891799549" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u7052-65.png" crc="4060990073" ref="copie--de-xvii-ter"/>
+    <file name="u7051-65.png" crc="261121844" ref="copie--de-xvii-ter"/>
+    <file name="5d6d4c7961699261422dd75e902ee8fb271x325.png" crc="231706149" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="54814610203x276.png" crc="4184657510" seo="true" ref="copie--de-xvii-ter">
+      <caption webpage="copie--de-xvii-ter" alt=""/>
+    </file>
+    <file name="u7052-66.png" crc="343029428" ref="copie--de-xvii-ter"/>
+    <file name="u7051-66.png" crc="7771597" ref="copie--de-xvii-ter"/>
+    <file name="caslon-linotype copie.png" crc="3987567" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="angleterre.png" crc="4284735543" seo="true" ref="1734:1935:xix-3:xix-4">
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="dates_plan de travail 1 copie 5.png" crc="137684942" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="u7554-6.png" crc="369336708" ref="1734"/>
+    <file name="capture d’écran 2018-06-03 à 202245.jpg" crc="423328060" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="angleterre255x294.png" crc="204597307" seo="true" ref="1734:1935">
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u7554-62.png" crc="275267737" ref="1734"/>
+    <file name="caslon-linotype copie272x386.png" crc="4196602896" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="angleterre234x269.png" crc="3856082418" seo="true" ref="1734:1935">
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u7554-63.png" crc="3860281341" ref="1734"/>
+    <file name="capture d’écran 2018-06-03 à 202245466x198.jpg" crc="172004934" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="caslon-linotype copie191x272.png" crc="3771433503" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="angleterre164x190.png" crc="4180278561" seo="true" ref="1734:1935">
+      <caption webpage="1734" alt=""/>
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u7554-64.png" crc="401002779" ref="1734"/>
+    <file name="capture d’écran 2018-06-03 à 202245328x139.jpg" crc="4072374060" seo="true" ref="1734">
+      <caption webpage="1734" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u7915.png" crc="9047046" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7920-4.png" crc="3938864616" ref="1766"/>
+    <file name="u7900-6.png" crc="3814255160" ref="1766"/>
+    <file name="29678915846_2c028cae5a_b-crop-u8013.png" crc="84459700" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="adobe-fournier-2013-12-01.gif" crc="111478335" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="pierre-simon-fournier-35d7a9a7-e17d-49ea-9733-1648587ddcd-resize-750 copie.png" crc="56561578" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u79152.png" crc="335725886" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7920-42.png" crc="387912002" ref="1766"/>
+    <file name="u7900-62.png" crc="3792752748" ref="1766"/>
+    <file name="29678915846_2c028cae5a_b-crop-u80132.png" crc="3879279564" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="pierre-simon-fournier-35d7a9a7-e17d-49ea-9733-1648587ddcd-resize-750 copie264x433.png" crc="56561578" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7900-63.png" crc="85790945" ref="1766"/>
+    <file name="u7920-43.png" crc="528933981" ref="1766"/>
+    <file name="pierre-simon-fournier-35d7a9a7-e17d-49ea-9733-1648587ddcd-resize-750 copie241x396.png" crc="56561578" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="29678915846_2c028cae5a_b-crop-u80133.png" crc="4015960282" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u79153.png" crc="4240978187" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7900-64.png" crc="3814255160" ref="1766"/>
+    <file name="pierre-simon-fournier-35d7a9a7-e17d-49ea-9733-1648587ddcd-resize-750 copie230x377.png" crc="56561578" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="29678915846_2c028cae5a_b-crop-u80134.png" crc="4216632878" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7920-44.png" crc="141294722" ref="1766"/>
+    <file name="invention_plan de travail 1 copie 7-crop-u79154.png" crc="4232923651" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="pierre-simon-fournier-35d7a9a7-e17d-49ea-9733-1648587ddcd-resize-750 copie156x255.png" crc="4257859330" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="29678915846_2c028cae5a_b-crop-u80135.png" crc="4045196604" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7900-65.png" crc="136429827" ref="1766"/>
+    <file name="invention_plan de travail 1 copie 7-crop-u79155.png" crc="3864119007" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="u7920-45.png" crc="473782891" ref="1766"/>
+    <file name="pierre-ambroise-francois-choderlos-de-laclos-1741-1803-french-general-cew36j.png" crc="380607172" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="xviii_plan de travail 1.png" crc="189541389" seo="true" ref="xviii:xviii-bis:xviii-3:xviii-4">
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="fr-crop-u8343.png" crc="230915634" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8332-8.png" crc="4065680627" ref="xviii"/>
+    <file name="encyclopedie_de_d-alembert_et_diderot_-_premiere_page_-_enc_1-na5.png" crc="4239598652" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="encyclopedie-diderot-1.png" crc="113504228" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8350-6.png" crc="339485660" ref="xviii"/>
+    <file name="pierre-ambroise-francois-choderlos-de-laclos-1741-1803-french-general-cew36j341x457.png" crc="3784553586" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="fr-crop-u83432.png" crc="4148580727" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8332-82.png" crc="3941812895" ref="xviii"/>
+    <file name="u8350-62.png" crc="3995627761" ref="xviii"/>
+    <file name="pierre-ambroise-francois-choderlos-de-laclos-1741-1803-french-general-cew36j317x425.png" crc="276745188" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8332-83.png" crc="3863628542" ref="xviii"/>
+    <file name="u8350-63.png" crc="4104589732" ref="xviii"/>
+    <file name="pierre-ambroise-francois-choderlos-de-laclos-1741-1803-french-general-cew36j287x385.png" crc="30585354" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8332-84.png" crc="3915218659" ref="xviii"/>
+    <file name="encyclopedie-diderot-1288x421.png" crc="77481960" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8350-64.png" crc="4231162490" ref="xviii"/>
+    <file name="pierre-ambroise-francois-choderlos-de-laclos-1741-1803-french-general-cew36j230x309.png" crc="274626910" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8332-85.png" crc="168137577" ref="xviii"/>
+    <file name="encyclopedie-diderot-1231x338.png" crc="3869216490" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8350-65.png" crc="530641973" ref="xviii"/>
+    <file name="pierre-ambroise-francois-choderlos-de-laclos-1741-1803-french-general-cew36j203x272.png" crc="262626580" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8332-86.png" crc="17709181" ref="xviii"/>
+    <file name="encyclopedie-diderot-1204x298.png" crc="532557445" seo="true" ref="xviii">
+      <caption webpage="xviii" alt=""/>
+    </file>
+    <file name="u8350-66.png" crc="106171750" ref="xviii"/>
+    <file name="didot-ambroise-firmin-7121790-2221876-lhistorien-allemand-graecist-portrait-gravure-sur-bois-19e-siecle-homme-homme-cp010f.png" crc="4226053744" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="u9032-6.png" crc="3934465872" ref="xviii-bis"/>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u9113.png" crc="420841831" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-traits.png" crc="517636296" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="moderno-fb.png" crc="232367108" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u9177.png" crc="205820801" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u9199.png" crc="190789734" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="u9032-62.png" crc="3992477836" ref="xviii-bis"/>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91132.png" crc="160296786" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="moderno-fb242x242.png" crc="4179514651" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91772.png" crc="3766383529" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91992.png" crc="3867088686" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-ambroise-firmin-7121790-2221876-lhistorien-allemand-graecist-portrait-gravure-sur-bois-19e-siecle-homme-homme-cp010f268x318.png" crc="4168765952" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="u9032-63.png" crc="486470093" ref="xviii-bis"/>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91133.png" crc="507350465" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-traits254x222.png" crc="3895438835" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="moderno-fb222x222.png" crc="4180546459" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91773.png" crc="392255650" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91993.png" crc="160021637" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-ambroise-firmin-7121790-2221876-lhistorien-allemand-graecist-portrait-gravure-sur-bois-19e-siecle-homme-homme-cp010f244x289.png" crc="4282838881" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="u9032-64.png" crc="4234334641" ref="xviii-bis"/>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91134.png" crc="4273021433" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-traits231x202.png" crc="4011640413" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="moderno-fb202x202.png" crc="3984768839" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91774.png" crc="4236133824" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91994.png" crc="3963600082" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-ambroise-firmin-7121790-2221876-lhistorien-allemand-graecist-portrait-gravure-sur-bois-19e-siecle-homme-homme-cp010f188x224.png" crc="375718275" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="u9032-65.png" crc="82480431" ref="xviii-bis"/>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91135.png" crc="241797882" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="didot-traits179x156.png" crc="32091838" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="moderno-fb156x156.png" crc="509688381" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91775.png" crc="495785615" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="66a80ce096b2019f5a6373c6e9822dac-1-crop-u91995.png" crc="131040296" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+    <file name="giambattistabodoni-manualetipografico-1818-p020.png" crc="235167650" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9515-6.png" crc="3776778173" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="ce901f7f220d8bb9ea183a2b6265de58.png" crc="3784058853" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9497-6.png" crc="4230211954" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="italie bleu275x318.png" crc="3903795936" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9515-62.png" crc="3793940297" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="u9497-62.png" crc="410147606" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="italie bleu256x295.png" crc="3893455921" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9515-63.png" crc="4056411881" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="u9497-63.png" crc="3933780956" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="giambattistabodoni-manualetipografico-1818-p020419x311.png" crc="504393801" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9515-64.png" crc="363959377" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="ce901f7f220d8bb9ea183a2b6265de58257x296.png" crc="368684442" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9497-64.png" crc="4237284049" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="giambattistabodoni-manualetipografico-1818-p020336x249.png" crc="3963877115" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9515-65.png" crc="232558753" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="ce901f7f220d8bb9ea183a2b6265de58206x237.png" crc="3814815955" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9497-65.png" crc="3910307036" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="giambattistabodoni-manualetipografico-1818-p020296x220.png" crc="4256458748" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9515-66.png" crc="4047986097" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="ce901f7f220d8bb9ea183a2b6265de58182x209.png" crc="4239562703" seo="true" ref="copie--de-copie--de-xvii-quad">
+      <caption webpage="copie--de-copie--de-xvii-quad" alt=""/>
+    </file>
+    <file name="u9497-66.png" crc="47275331" ref="copie--de-copie--de-xvii-quad"/>
+    <file name="17508_25b63ebb05f416b75b26e6da8185ed0b135x175.png" crc="115794191" seo="true" ref="1450">
+      <caption webpage="1450" alt=""/>
+    </file>
+    <file name="dates_plan de travail 1 copie 3.png" crc="4098036179" seo="true" ref="1460:1460-bis">
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="1460" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="u1231-65.png" crc="4190949428" ref="1460"/>
+    <file name="u1124-105.png" crc="177314756" ref="1460"/>
+    <file name="u1110-45.png" crc="28872934" ref="1460"/>
+    <file name="u1212-65.png" crc="478860520" ref="1460"/>
+    <file name="gutenberg.jpg" crc="4163700251" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="800px-liber_chronicarum_f_223r217x325.jpg" crc="3981816051" seo="true" ref="1460-bis">
+      <caption webpage="1460-bis" alt=""/>
+    </file>
+    <file name="italie bleu190x220.png" crc="3921823456" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="trajan_detail_lg338x148.png" crc="208443653" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="u4879-45.png" crc="3896376558" ref="xv"/>
+    <file name="1689_plan de travail 1.png" crc="43804340" seo="true" ref="1689">
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+      <caption webpage="1689" alt=""/>
+    </file>
+    <file name="1766_plan de travail 1.png" crc="3890157367" seo="true" ref="1766">
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+      <caption webpage="1766" alt=""/>
+    </file>
+    <file name="fr3.png" crc="3781413893" seo="true" ref="xviii:xx-2">
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xviii" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="sans titre-1.png" crc="4213994873" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="sans titre-1159x165.png" crc="4002485818" seo="true" ref="1450-bis">
+      <caption webpage="1450-bis" alt=""/>
+    </file>
+    <file name="xv_plan de travail 1.png" crc="3791636013" seo="true" ref="xv">
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+      <caption webpage="xv" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7.png" crc="253902841" seo="true" ref="xvii">
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+      <caption webpage="xvii" alt=""/>
+    </file>
+    <file name="europe bleue254x293.png" crc="480073997" seo="true" ref="xvii-bis">
+      <caption webpage="xvii-bis" alt=""/>
+    </file>
+    <file name="u6243-66.png" crc="92023903" ref="xvii-bis"/>
+    <file name="u6242-66.png" crc="144490592" ref="xvii-bis"/>
+    <file name="u6462-66.png" crc="3772654537" ref="xvii-bis"/>
+    <file name="u1686_states.png" crc="279388477" ref="index"/>
+    <file name="u1686_states-r.png" crc="520693213" ref="index"/>
+    <file name="u1669_states.png" crc="4215284302" ref="index"/>
+    <file name="u1669_states-r.png" crc="4241550301" ref="index"/>
+    <file name="u2785_states.png" crc="462150945" ref="index"/>
+    <file name="u2785_states-r.png" crc="3819194067" ref="index"/>
+    <file name="u1663_states.png" crc="3835845167" ref="index"/>
+    <file name="u1663_states-r.png" crc="4060760239" ref="index"/>
+    <file name="u1701_states.png" crc="4215284302" ref="index"/>
+    <file name="u1701_states-r.png" crc="4241550301" ref="index"/>
+    <file name="u2820_states.png" crc="315424256" ref="index"/>
+    <file name="u2820_states-r.png" crc="3907751010" ref="index"/>
+    <file name="u11190_states.png" crc="339688412" ref="index"/>
+    <file name="u11190_states-r.png" crc="405765944" ref="index"/>
+    <file name="u11182_states.png" crc="4092189554" ref="index"/>
+    <file name="u11182_states-r.png" crc="464222186" ref="index"/>
+    <file name="u2810_states.png" crc="462150945" ref="index"/>
+    <file name="u2810_states-r.png" crc="3819194067" ref="index"/>
+    <file name="u2831_states.png" crc="478465120" ref="index"/>
+    <file name="u2831_states-r.png" crc="444144199" ref="index"/>
+    <file name="u11227_states.png" crc="217718891" ref="index"/>
+    <file name="u11227_states-r.png" crc="4099388432" ref="index"/>
+    <file name="u11209_states.png" crc="217718891" ref="index"/>
+    <file name="u11209_states-r.png" crc="4099388432" ref="index"/>
+    <file name="u11199_states.png" crc="217718891" ref="index"/>
+    <file name="u11199_states-r.png" crc="4099388432" ref="index"/>
+    <file name="u11236_states.png" crc="4065374266" ref="index"/>
+    <file name="u11236_states-r.png" crc="3954725060" ref="index"/>
+    <file name="u11218_states.png" crc="217718891" ref="index"/>
+    <file name="u11218_states-r.png" crc="4099388432" ref="index"/>
+    <file name="u11272_states.png" crc="3930077253" ref="index"/>
+    <file name="u11272_states-r.png" crc="446591258" ref="index"/>
+    <file name="u11253_states.png" crc="142306140" ref="index"/>
+    <file name="u11253_states-r.png" crc="245602656" ref="index"/>
+    <file name="u21043_states.png" crc="142306140" ref="index"/>
+    <file name="u21043_states-r.png" crc="245602656" ref="index"/>
+    <file name="u11281_states.png" crc="4293713922" ref="index"/>
+    <file name="u11281_states-r.png" crc="4133861472" ref="index"/>
+    <file name="u11263_states.png" crc="142306140" ref="index"/>
+    <file name="u11263_states-r.png" crc="245602656" ref="index"/>
+    <file name="u21013_states.png" crc="34481899" ref="index"/>
+    <file name="u21013_states-r.png" crc="419847988" ref="index"/>
+    <file name="u21001_states.png" crc="3762535171" ref="index"/>
+    <file name="u21001_states-r.png" crc="3886361477" ref="index"/>
+    <file name="u20962_states.png" crc="142306140" ref="index"/>
+    <file name="u20962_states-r.png" crc="245602656" ref="index"/>
+    <file name="u20995_states.png" crc="3762535171" ref="index"/>
+    <file name="u20995_states-r.png" crc="3886361477" ref="index"/>
+    <file name="u21010_states.png" crc="34481899" ref="index"/>
+    <file name="u21010_states-r.png" crc="419847988" ref="index"/>
+    <file name="u21070_states.png" crc="3762535171" ref="index"/>
+    <file name="u21070_states-r.png" crc="3886361477" ref="index"/>
+    <file name="u21058_states.png" crc="69034497" ref="index"/>
+    <file name="u21058_states-r.png" crc="4139687710" ref="index"/>
+    <file name="u21076_states.png" crc="3762535171" ref="index"/>
+    <file name="u21076_states-r.png" crc="3886361477" ref="index"/>
+    <file name="u21055_states.png" crc="30433633" ref="index"/>
+    <file name="u21055_states-r.png" crc="3830730694" ref="index"/>
+    <file name="u21064_states.png" crc="210158379" ref="index"/>
+    <file name="u21064_states-r.png" crc="4252657941" ref="index"/>
+    <file name="u21103_states.png" crc="30433633" ref="index"/>
+    <file name="u21103_states-r.png" crc="3830730694" ref="index"/>
+    <file name="giambattista bodoni-crop-u13410.png" crc="65769930" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="ita blue.png" crc="3819595083" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="u13416-4.png" crc="4182546202" ref="xviii-3"/>
+    <file name="u13409-4.png" crc="3944638312" ref="xviii-3"/>
+    <file name="manuel giambattista bodoni.png" crc="3836054701" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u134102.png" crc="4092277646" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="ita blue275x318.png" crc="3907246883" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="u13416-42.png" crc="353601208" ref="xviii-3"/>
+    <file name="u13409-42.png" crc="381342623" ref="xviii-3"/>
+    <file name="manuel giambattista bodoni484x365.png" crc="3859220291" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u134103.png" crc="4229471448" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="ita blue256x295.png" crc="146500573" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="u13416-43.png" crc="47275331" ref="xviii-3"/>
+    <file name="u13409-43.png" crc="3819082582" ref="xviii-3"/>
+    <file name="manuel giambattista bodoni450x339.png" crc="262706200" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u134104.png" crc="3853328477" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="ita blue232x267.png" crc="4047580487" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="u13416-44.png" crc="4237284049" ref="xviii-3"/>
+    <file name="u13409-44.png" crc="126198310" ref="xviii-3"/>
+    <file name="manuel giambattista bodoni408x307.png" crc="218917311" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u134105.png" crc="4150050195" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="ita blue186x214.png" crc="68150975" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="u13416-45.png" crc="3910307036" ref="xviii-3"/>
+    <file name="u13409-45.png" crc="4069526530" ref="xviii-3"/>
+    <file name="manuel giambattista bodoni327x246.png" crc="4227581942" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u134106.png" crc="102631692" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="ita blue164x189.png" crc="3769752431" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="u13416-46.png" crc="47275331" ref="xviii-3"/>
+    <file name="u13409-46.png" crc="3867151858" ref="xviii-3"/>
+    <file name="manuel giambattista bodoni288x217.png" crc="118450285" seo="true" ref="xviii-3">
+      <caption webpage="xviii-3" alt=""/>
+    </file>
+    <file name="bodoni.png" crc="3822547801" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u14442.png" crc="4112255045" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="u14444-6.png" crc="4018822844" ref="xviii-4"/>
+    <file name="giambattista bodoni-crop-u144422.png" crc="4024582159" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="u14444-62.png" crc="279276226" ref="xviii-4"/>
+    <file name="italie234x269.png" crc="4090378764" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u144423.png" crc="106030532" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="u14444-63.png" crc="463271844" ref="xviii-4"/>
+    <file name="italie212x245.png" crc="4035094447" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u144424.png" crc="3771582268" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="u14444-64.png" crc="497132589" ref="xviii-4"/>
+    <file name="italie164x190.png" crc="113178271" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="giambattista bodoni-crop-u144425.png" crc="430886492" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="u14444-65.png" crc="262232170" ref="xviii-4"/>
+    <file name="bodoni274x183.png" crc="3822547801" seo="true" ref="xviii-4">
+      <caption webpage="xviii-4" alt=""/>
+    </file>
+    <file name="robert thorne-crop-u14903.png" crc="456838559" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="xix_plan de travail 1.png" crc="451347528" seo="true" ref="xix:xix-2:xix-3:xix-4">
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="europpe.png" crc="157589973" seo="true" ref="xix:xx4">
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u14909-4.png" crc="272880102" ref="xix"/>
+    <file name="fat face 2.png" crc="358568722" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u15043.png" crc="467968678" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u15107.png" crc="105014109" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14895-4.png" crc="3789975722" ref="xix"/>
+    <file name="robert thorne-crop-u149032.png" crc="133645597" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14909-42.png" crc="506889909" ref="xix"/>
+    <file name="fat face-crop-u150432.png" crc="491620364" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u151072.png" crc="245058867" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14895-42.png" crc="82142570" ref="xix"/>
+    <file name="robert thorne-crop-u149033.png" crc="525836863" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14909-43.png" crc="4057409689" ref="xix"/>
+    <file name="fat face-crop-u150433.png" crc="3923991540" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u151073.png" crc="303291927" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14895-43.png" crc="4031388722" ref="xix"/>
+    <file name="robert thorne-crop-u149034.png" crc="145860755" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="europpe232x267.png" crc="4068038090" seo="true" ref="xix:xx4">
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u14909-44.png" crc="4024806628" ref="xix"/>
+    <file name="fat face 2424x230.png" crc="4108264621" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u150434.png" crc="4181673149" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u151074.png" crc="56042982" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14895-44.png" crc="327004397" ref="xix"/>
+    <file name="robert thorne-crop-u149035.png" crc="338781395" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="europpe186x214.png" crc="4014699217" seo="true" ref="xix:xx4">
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u14909-45.png" crc="4052534593" ref="xix"/>
+    <file name="fat face 2340x184.png" crc="452340124" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u150435.png" crc="4022113144" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u151075.png" crc="45611141" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14895-45.png" crc="4204680073" ref="xix"/>
+    <file name="robert thorne-crop-u149036.png" crc="503624046" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="europpe164x189.png" crc="74200866" seo="true" ref="xix:xx4">
+      <caption webpage="xix" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u14909-46.png" crc="4057409689" ref="xix"/>
+    <file name="fat face 2300x162.png" crc="390768443" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u150436.png" crc="3994545063" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="fat face-crop-u151076.png" crc="3935054888" seo="true" ref="xix">
+      <caption webpage="xix" alt=""/>
+    </file>
+    <file name="u14895-46.png" crc="169713495" ref="xix"/>
+    <file name="1935_plan de travail 1.png" crc="74693761" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="falstaff-crop-u15684.png" crc="304451790" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u15722-4.png" crc="4262529067" ref="1935"/>
+    <file name="u15745-4.png" crc="287474" ref="1935"/>
+    <file name="falstaff-crop-u156842.png" crc="313028574" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u15722-42.png" crc="369369889" ref="1935"/>
+    <file name="u15745-42.png" crc="252499372" ref="1935"/>
+    <file name="falstaff-crop-u156843.png" crc="3960781263" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u15722-43.png" crc="369369889" ref="1935"/>
+    <file name="u15745-43.png" crc="374841337" ref="1935"/>
+    <file name="angleterre212x245.png" crc="518503193" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="falstaff-crop-u156844.png" crc="460988205" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u15722-44.png" crc="369369889" ref="1935"/>
+    <file name="u15745-44.png" crc="374841337" ref="1935"/>
+    <file name="falstaff-crop-u156845.png" crc="307494997" seo="true" ref="1935">
+      <caption webpage="1935" alt=""/>
+    </file>
+    <file name="u15722-45.png" crc="369369889" ref="1935"/>
+    <file name="u15745-45.png" crc="374841337" ref="1935"/>
+    <file name="1850_plan de travail 1.png" crc="4009319702" seo="true" ref="1850:1850-bis">
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="fraktur 2.png" crc="4036168079" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="u16375-4.png" crc="3897639006" ref="1850"/>
+    <file name="fraktur-crop-u16588.png" crc="4027757932" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u16652.png" crc="386263819" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="allem275x318.png" crc="266413493" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="u16375-42.png" crc="33027876" ref="1850"/>
+    <file name="fraktur-crop-u165882.png" crc="312541109" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u166522.png" crc="87869532" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="allem256x295.png" crc="472084117" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="u16375-43.png" crc="3781339405" ref="1850"/>
+    <file name="fraktur-crop-u165883.png" crc="4247235402" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u166523.png" crc="245628295" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur 2382x286.png" crc="4074065685" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="u16375-44.png" crc="191045663" ref="1850"/>
+    <file name="fraktur-crop-u165884.png" crc="457761996" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u166524.png" crc="4272295413" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur 2306x229.png" crc="523629142" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="allem186x214.png" crc="3961331500" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u165885.png" crc="484181924" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u166525.png" crc="3927700760" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="u16375-45.png" crc="4137947935" ref="1850"/>
+    <file name="fraktur 2270x202.png" crc="272438363" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="u16375-46.png" crc="4058761050" ref="1850"/>
+    <file name="fraktur-crop-u165886.png" crc="4198139695" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="fraktur-crop-u166526.png" crc="27955528" seo="true" ref="1850">
+      <caption webpage="1850" alt=""/>
+    </file>
+    <file name="all roy u.png" crc="81675748" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="gustave doré.png" crc="458234324" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="thomas bewick.png" crc="3859601667" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="u17133-4.png" crc="335460593" ref="1850-bis"/>
+    <file name="u17186-6.png" crc="454051116" ref="1850-bis"/>
+    <file name="u17133-42.png" crc="3977021651" ref="1850-bis"/>
+    <file name="all roy u275x318.png" crc="344890274" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="u17186-62.png" crc="4179887223" ref="1850-bis"/>
+    <file name="all roy u256x295.png" crc="169369950" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="u17133-43.png" crc="255082387" ref="1850-bis"/>
+    <file name="u17186-63.png" crc="454051116" ref="1850-bis"/>
+    <file name="all roy u232x267.png" crc="3937431943" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="gustave doré292x364.png" crc="263176405" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="thomas bewick251x368.png" crc="3915781651" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="u17133-44.png" crc="477146822" ref="1850-bis"/>
+    <file name="u17186-64.png" crc="3838846990" ref="1850-bis"/>
+    <file name="all roy u186x214.png" crc="108651929" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="gustave doré234x292.png" crc="239931678" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="thomas bewick201x295.png" crc="4248122514" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="u17133-45.png" crc="39684671" ref="1850-bis"/>
+    <file name="u17186-65.png" crc="303491480" ref="1850-bis"/>
+    <file name="all roy u164x189.png" crc="349191251" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="gustave doré206x257.png" crc="79342649" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="thomas bewick177x260.png" crc="299598412" seo="true" ref="1850-bis">
+      <caption webpage="1850-bis" alt=""/>
+    </file>
+    <file name="u17133-46.png" crc="4246445216" ref="1850-bis"/>
+    <file name="u17186-66.png" crc="96094521" ref="1850-bis"/>
+    <file name="roy uni.png" crc="3803995454" seo="true" ref="xix-2:xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster.png" crc="365608094" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster2.png" crc="4271819862" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="roy uni275x318.png" crc="4100773705" seo="true" ref="xix-2:xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="roy uni256x295.png" crc="415785151" seo="true" ref="xix-2:xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="roy uni232x267.png" crc="4198182988" seo="true" ref="xix-2:xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster290x409.png" crc="257252529" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster2253x358.png" crc="4139568820" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="roy uni186x214.png" crc="362131420" seo="true" ref="xix-2:xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster232x328.png" crc="4091162706" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster2203x287.png" crc="3835918608" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="roy uni164x189.png" crc="248472932" seo="true" ref="xix-2:xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster205x289.png" crc="33512166" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="poster2179x253.png" crc="4090604640" seo="true" ref="xix-2">
+      <caption webpage="xix-2" alt=""/>
+    </file>
+    <file name="égyptiennes.png" crc="384391678" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="égyptiennes 2-crop-u18255.png" crc="4104957572" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="vincent.png" crc="3786234863" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="u18230-4.png" crc="4169974789" ref="xix-3"/>
+    <file name="égyptiennes 2-crop-u182552.png" crc="248143651" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="u18230-42.png" crc="364098475" ref="xix-3"/>
+    <file name="égyptiennes 2-crop-u182553.png" crc="3914816385" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="u18230-43.png" crc="4010998644" ref="xix-3"/>
+    <file name="égyptiennes 2-crop-u182554.png" crc="3950649677" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="u18230-44.png" crc="166338260" ref="xix-3"/>
+    <file name="u18230-45.png" crc="4003931734" ref="xix-3"/>
+    <file name="égyptiennes267x178.png" crc="384391678" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="égyptiennes 2-crop-u182555.png" crc="3940000548" seo="true" ref="xix-3">
+      <caption webpage="xix-3" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u18403.png" crc="199857758" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u18629.png" crc="365912710" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale.png" crc="187143244" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 3-crop-u18556.png" crc="467285653" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u184032.png" crc="3897163338" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 3-crop-u185562.png" crc="3980962954" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u186292.png" crc="419604045" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u184033.png" crc="204334766" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u186293.png" crc="311665790" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 3-crop-u185563.png" crc="9349278" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale-crop-u18563.png" crc="156935265" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale255x344.png" crc="4211348139" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u184034.png" crc="507517070" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u186294.png" crc="507517070" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 3-crop-u185564.png" crc="237941571" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale197x266.png" crc="3958607235" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u184035.png" crc="73596584" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 2-crop-u186295.png" crc="73596584" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="linéale 3-crop-u185565.png" crc="4091007323" seo="true" ref="xix-4">
+      <caption webpage="xix-4" alt=""/>
+    </file>
+    <file name="morris.png" crc="202745614" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="us.png" crc="211501491" seo="true" ref="1902:xx:xx4:xx-5">
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="1902_plan de travail 1.png" crc="4148908251" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="frnklin-crop-u19170.png" crc="3921628145" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="u19218-4.png" crc="3790414298" ref="1902"/>
+    <file name="franklin-crop-u19332.png" crc="79699036" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="frnklin-crop-u191702.png" crc="258878868" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="u19218-42.png" crc="3979704224" ref="1902"/>
+    <file name="franklin-crop-u193322.png" crc="4113717641" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="frnklin-crop-u191703.png" crc="4096841753" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="u19218-43.png" crc="3940706094" ref="1902"/>
+    <file name="franklin-crop-u193323.png" crc="3969879448" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="us-crop-u19064.png" crc="3967039695" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="frnklin-crop-u191704.png" crc="174027760" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="u19218-44.png" crc="4167982994" ref="1902"/>
+    <file name="franklin-crop-u193324.png" crc="459287383" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="us-crop-u190642.png" crc="226155352" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="u19218-45.png" crc="4017359267" ref="1902"/>
+    <file name="franklin-crop-u193325.png" crc="65041321" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="frnklin-crop-u191705.png" crc="14919600" seo="true" ref="1902">
+      <caption webpage="1902" alt=""/>
+    </file>
+    <file name="lith 2.png" crc="4003604132" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="xx_plan de travail 1.png" crc="3947071212" seo="true" ref="xx:xx-2:xx-3:xx4:xx-5">
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u19488.png" crc="9047046" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="lith.png" crc="95564668" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="u19508-4.png" crc="3826087432" ref="xx"/>
+    <file name="u19508-42.png" crc="476763394" ref="xx"/>
+    <file name="invention_plan de travail 1 copie 7-crop-u194882.png" crc="335725886" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="u19508-43.png" crc="4112179254" ref="xx"/>
+    <file name="invention_plan de travail 1 copie 7-crop-u194883.png" crc="4240978187" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="invention_plan de travail 1 copie 7-crop-u194884.png" crc="4232923651" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="u19508-44.png" crc="4282550395" ref="xx"/>
+    <file name="lith 2282x181.png" crc="4258116017" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="lith324x161.png" crc="286236785" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="u19508-45.png" crc="4029907454" ref="xx"/>
+    <file name="invention_plan de travail 1 copie 7-crop-u194885.png" crc="3864119007" seo="true" ref="xx">
+      <caption webpage="xx" alt=""/>
+    </file>
+    <file name="chéret 2.jpg" crc="369994703" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="lautrec.png" crc="4141279316" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20476-4.png" crc="3782558988" ref="xx-2"/>
+    <file name="fr-crop-u20163.png" crc="230915634" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="chéret.jpg" crc="4234689000" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="lautrec2-crop-u20683.png" crc="3994161999" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20494-6.png" crc="4148582927" ref="xx-2"/>
+    <file name="u20512-4.png" crc="4170449250" ref="xx-2"/>
+    <file name="u20476-42.png" crc="98958720" ref="xx-2"/>
+    <file name="fr-crop-u201632.png" crc="4148580727" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="lautrec2-crop-u206832.png" crc="3874383360" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20494-62.png" crc="4148582927" ref="xx-2"/>
+    <file name="u20512-42.png" crc="3927849127" ref="xx-2"/>
+    <file name="u20476-43.png" crc="209901794" ref="xx-2"/>
+    <file name="lautrec2-crop-u206833.png" crc="142125231" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20494-63.png" crc="10150859" ref="xx-2"/>
+    <file name="u20512-43.png" crc="3983245649" ref="xx-2"/>
+    <file name="lautrec231x312.png" crc="4211980822" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20476-44.png" crc="344027451" ref="xx-2"/>
+    <file name="chéret200x275.jpg" crc="58183113" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="lautrec2-crop-u206834.png" crc="3961400515" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20494-64.png" crc="116873066" ref="xx-2"/>
+    <file name="u20512-44.png" crc="3894137685" ref="xx-2"/>
+    <file name="lautrec185x250.png" crc="4052346414" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20476-45.png" crc="4098175406" ref="xx-2"/>
+    <file name="chéret161x220.jpg" crc="4164882705" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="lautrec2-crop-u206835.png" crc="491852308" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20494-65.png" crc="533700361" ref="xx-2"/>
+    <file name="u20512-45.png" crc="4026482106" ref="xx-2"/>
+    <file name="lautrec163x220.png" crc="3907733408" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20476-46.png" crc="209901794" ref="xx-2"/>
+    <file name="chéret142x194.jpg" crc="534897964" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="lautrec2-crop-u206836.png" crc="239966889" seo="true" ref="xx-2">
+      <caption webpage="xx-2" alt=""/>
+    </file>
+    <file name="u20494-66.png" crc="144909035" ref="xx-2"/>
+    <file name="u20512-46.png" crc="3983245649" ref="xx-2"/>
+    <file name="ber 3.png" crc="3805930652" seo="true" ref="xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+    </file>
+    <file name="u21193-4.png" crc="198651240" ref="xx-3"/>
+    <file name="ber 2.jpg" crc="348719659" seo="true" ref="xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+    </file>
+    <file name="ber.jpg" crc="228624478" seo="true" ref="xx-3">
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+      <caption webpage="xx-3" alt=""/>
+    </file>
+    <file name="u21193-42.png" crc="4202115285" ref="xx-3"/>
+    <file name="roy uni291x335.png" crc="4036731338" seo="true" ref="xx-3">
+      <caption webpage="xx-3" alt=""/>
+    </file>
+    <file name="u21193-43.png" crc="190641705" ref="xx-3"/>
+    <file name="u21193-44.png" crc="4293751132" ref="xx-3"/>
+    <file name="u21193-45.png" crc="77062424" ref="xx-3"/>
+    <file name="ber 3167x213.png" crc="3858287775" seo="true" ref="xx-3">
+      <caption webpage="xx-3" alt=""/>
+    </file>
+    <file name="u21193-46.png" crc="4134377528" ref="xx-3"/>
+    <file name="ber 3147x187.png" crc="4074157547" seo="true" ref="xx-3">
+      <caption webpage="xx-3" alt=""/>
+    </file>
+    <file name="u21193-47.png" crc="4293751132" ref="xx-3"/>
+    <file name="friedrich koenig .png" crc="141360857" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="monotype.png" crc="3763471021" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="presse.png" crc="4258177620" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="tolbert lanston.png" crc="41614737" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u22043-4.png" crc="262892154" ref="xx4"/>
+    <file name="u22236-4.png" crc="3921624346" ref="xx4"/>
+    <file name="u22194-4.png" crc="3907578603" ref="xx4"/>
+    <file name="u22257-4.png" crc="4130371184" ref="xx4"/>
+    <file name="u22043-42.png" crc="338477081" ref="xx4"/>
+    <file name="u22236-42.png" crc="4261938129" ref="xx4"/>
+    <file name="u22194-42.png" crc="385694479" ref="xx4"/>
+    <file name="u22257-42.png" crc="332802671" ref="xx4"/>
+    <file name="u22043-43.png" crc="304024191" ref="xx4"/>
+    <file name="u22236-43.png" crc="4122372671" ref="xx4"/>
+    <file name="u22194-43.png" crc="111642553" ref="xx4"/>
+    <file name="u22257-43.png" crc="3942051034" ref="xx4"/>
+    <file name="u22043-44.png" crc="3829170825" ref="xx4"/>
+    <file name="u22236-44.png" crc="193526184" ref="xx4"/>
+    <file name="u22194-44.png" crc="382444098" ref="xx4"/>
+    <file name="u22257-44.png" crc="4121118750" ref="xx4"/>
+    <file name="friedrich koenig 192x262.png" crc="336789351" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="monotype392x262.png" crc="528856778" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="presse288x195.png" crc="3881014346" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u22043-45.png" crc="511587062" ref="xx4"/>
+    <file name="u22236-45.png" crc="4040385288" ref="xx4"/>
+    <file name="u22194-45.png" crc="3955129475" ref="xx4"/>
+    <file name="u22257-45.png" crc="218802964" ref="xx4"/>
+    <file name="friedrich koenig 154x210.png" crc="106746159" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="presse231x157.png" crc="61657407" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u22043-46.png" crc="119628505" ref="xx4"/>
+    <file name="u22236-46.png" crc="3850229540" ref="xx4"/>
+    <file name="u22194-46.png" crc="326223599" ref="xx4"/>
+    <file name="u22257-46.png" crc="484621124" ref="xx4"/>
+    <file name="monotype314x210.png" crc="4224200908" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="friedrich koenig 136x185.png" crc="339026405" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="monotype277x185.png" crc="295686338" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="presse204x138.png" crc="4262354715" seo="true" ref="xx4">
+      <caption webpage="xx4" alt=""/>
+    </file>
+    <file name="u22043-47.png" crc="4148751165" ref="xx4"/>
+    <file name="u22236-47.png" crc="193526184" ref="xx4"/>
+    <file name="u22194-47.png" crc="228512787" ref="xx4"/>
+    <file name="u22257-47.png" crc="4121118750" ref="xx4"/>
+    <file name="goodhue.png" crc="480378828" seo="true" ref="xx-5">
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="chter.png" crc="495851495" seo="true" ref="xx-5">
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="cht.png" crc="4241416523" seo="true" ref="xx-5">
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="chter396x226.png" crc="497985202" seo="true" ref="xx-5">
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="chter387x221.png" crc="4049042182" seo="true" ref="xx-5">
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="us-crop-u23103.png" crc="4079435466" seo="true" ref="xx-5">
+      <caption webpage="xx-5" alt=""/>
+    </file>
+    <file name="u23925_states.png" crc="30433633" ref="index"/>
+    <file name="u23925_states-r.png" crc="3830730694" ref="index"/>
+    <file name="u23937_states.png" crc="30433633" ref="index"/>
+    <file name="u23937_states-r.png" crc="3830730694" ref="index"/>
+    <file name="u23913_states.png" crc="30433633" ref="index"/>
+    <file name="u23913_states-r.png" crc="3830730694" ref="index"/>
+    <file name="fr22.png" crc="3898795279" seo="true" ref="xviii-bis">
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+      <caption webpage="xviii-bis" alt=""/>
+    </file>
+  </folder>
+  <file name="780.html" crc="371002298" seo="true" mt="1528068922304" redirect="true"/>
+  <file name="1450.html" crc="4187993194" seo="true" mt="1528649195889" redirect="true"/>
+  <file name="1460.html" crc="4052778646" seo="true" mt="1528649662617" redirect="true"/>
+  <file name="1540.html" crc="3781716242" seo="true" mt="1528649712454" redirect="true"/>
+  <file name="index.html" crc="465391157" seo="true" mt="1528650009316" redirect="true"/>
+  <file name="1510.html" crc="4199038611" seo="true" mt="1528649581812" redirect="true"/>
+  <file name="1450-bis.html" crc="78884879" seo="true" mt="1528649116387" redirect="true"/>
+  <file name="xvii.html" crc="172739936" seo="true" mt="1528649806339" redirect="true"/>
+  <file name="1460-bis.html" crc="4214847258" seo="true" mt="1528649290547" redirect="true"/>
+  <file name="xv.html" crc="4277202094" seo="true" mt="1528649420723" redirect="true"/>
+  <file name="1462.html" crc="72220622" seo="true" mt="1528649480388" redirect="true"/>
+  <file name="1480.html" crc="3889778148" seo="true" mt="1528068921078" redirect="true"/>
+  <file name="xvii-bis.html" crc="3785147300" seo="true" mt="1528649040022" redirect="true"/>
+  <file name="1689.html" crc="324708109" seo="true" mt="1528648930944" redirect="true"/>
+  <file name="copie--de-xvii-ter.html" crc="4078390939" seo="true" mt="1528648893982" redirect="true"/>
+  <file name="1734.html" crc="496773042" seo="true" mt="1528648869971" redirect="true"/>
+  <file name="1766.html" crc="333630624" seo="true" mt="1528648776253" redirect="true"/>
+  <file name="xviii.html" crc="4285332367" seo="true" mt="1528648645824" redirect="true"/>
+  <file name="xviii-bis.html" crc="3919049056" seo="true" mt="1528648545405" redirect="true"/>
+  <file name="copie--de-copie--de-xvii-quad.html" crc="3917890463" seo="true" mt="1528648461580" redirect="true"/>
+  <file name="xviii-3.html" crc="526379173" seo="true" mt="1528576237165" redirect="true"/>
+  <file name="xviii-4.html" crc="319619318" seo="true" mt="1528576155463" redirect="true"/>
+  <file name="xix.html" crc="30508741" seo="true" mt="1528575936200" redirect="true"/>
+  <file name="1935.html" crc="4180839679" seo="true" mt="1528576020178" redirect="true"/>
+  <file name="1850.html" crc="316261812" seo="true" mt="1528575916396" redirect="true"/>
+  <file name="1850-bis.html" crc="3788932585" seo="true" mt="1528575902362" redirect="true"/>
+  <file name="xix-2.html" crc="239922540" seo="true" mt="1528575960004" redirect="true"/>
+  <file name="xix-3.html" crc="334456357" seo="true" mt="1528575978050" redirect="true"/>
+  <file name="xix-4.html" crc="3958942653" seo="true" mt="1528575989960" redirect="true"/>
+  <file name="1902.html" crc="4152938150" seo="true" mt="1528576002881" redirect="true"/>
+  <file name="xx.html" crc="4145350638" seo="true" mt="1528575774472" redirect="true"/>
+  <file name="xx-2.html" crc="4173804069" seo="true" mt="1528649860434" redirect="true"/>
+  <file name="xx-3.html" crc="3821881228" seo="true" mt="1528649876260" redirect="true"/>
+  <file name="xx4.html" crc="452456657" seo="true" mt="1528649910595" redirect="true"/>
+  <file name="xx-5.html" crc="3855509212" seo="true" mt="1528649930141" redirect="true"/>
+</manifest>
